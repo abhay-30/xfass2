@@ -1,0 +1,5 @@
+{
+    "connectionString": "DefaultEndpointsProtocol=https;AccountName=xfaasstoragenew;AccountKey=11K8CXAPwBkXxGHm8TmkohWNEuoz6bpCCjTYoJYcK2sLfJC+ypHSy6JoxB2RLlaX2fVZ378tTZ9m+AStf6MeRA==;EndpointSuffix=core.windows.net",
+    "queue": "big-data-aws"
+  
+  }

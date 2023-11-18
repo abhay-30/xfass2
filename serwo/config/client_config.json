@@ -1,0 +1,9 @@
+{
+    "awsVM":{
+        "server_ip": "54.82.27.236",
+        "server_user_id" : "ubuntu",
+        "server_pem_file_path":"/home/oem/Desktop/xfaas_refactor/XFaaS/BTP2023KEYPAIR.pem"
+    }
+}
+
+
